@@ -1,0 +1,22 @@
+---
+title: "LearnPlatform COVID-19 Impact on Digital Learning"
+author: "Yunting Chiu"
+date: "8/12/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Libraries
+```{r}
+library(tidyverse)
+library(tidymodels)
+```
+
+# Read a data
+```{r}
+df <- 
+```
+
