@@ -17,6 +17,9 @@ library(tidymodels)
 
 # Read a data
 ```{r}
-df <- 
+dis_info <- read_csv("./data/learnplatform-covid19-impact-on-digital-learning/districts_info.csv")
+dis_info
+prod_info <- read_csv("./data/learnplatform-covid19-impact-on-digital-learning/products_info.csv")
+prod_info
 ```
 
